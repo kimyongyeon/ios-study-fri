@@ -1,0 +1,6 @@
+안녕하세요, ios 스터디원 여러분! 
+오늘 공유해드린 내용은 아래 링크를 참고해주세요 :)
+
+
+https://wiwi-si.tistory.com/11
+  "[iOS/Swift] Optional type을 unwrapping하는 법"
