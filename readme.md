@@ -50,6 +50,12 @@
 - 열거형
 - 값 타입과 참조타입
 
+# 3회차 담당자 지정
+- 참고 : https://www.boostcourse.org/mo326/lecture/20140?isDesc=false
+1. 시작 그리고 Xcode - 김은지
+2. 애플리케이션 만들기, 오토레이아웃 - 김진수
+3. Foundation Uikit - 김용연
+
 # 일정
 
 - 평일 : 매주 / 불금 / 저녁9시
